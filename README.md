@@ -9,9 +9,6 @@ A real-time group chat application built with **Node.js**, **Express**, and **So
 - Responsive and clean chat UI
 - Built with modern JavaScript and Socket.IO
 
-## Demo
-
-![Chat Demo Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 
 ## Getting Started
 
